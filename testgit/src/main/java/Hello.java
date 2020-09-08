@@ -13,8 +13,13 @@ public class Hello {
         System.out.println("测试git");
         System.out.println("测试git");
     }
-    public void  test(){
+ public void  test(){
         System.out.println("xiugai");
     }
+    public void  test1(){
+        System.out.println("xiugaiqqqqqqq");
+    }
+
+
 
 }
