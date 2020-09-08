@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 /**
  * Created with IntelliJ IDEA.
  *
@@ -11,4 +13,8 @@ public class Hello {
         System.out.println("测试git");
         System.out.println("测试git");
     }
+    public void  test(){
+        System.out.println("xiugai");
+    }
+
 }
