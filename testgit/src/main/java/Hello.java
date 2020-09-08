@@ -20,6 +20,9 @@ public class Hello {
         System.out.println("xiugaiqqqqqqq");
     }
 
+    public void  test2(){
+        System.out.println("xiugaiqqqqqqq");
+    }
 
 
 }
